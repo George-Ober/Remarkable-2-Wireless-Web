@@ -1,0 +1,6 @@
+node_modules
+**/.DS_Store
+metadata
+Remarkable
+cache
+.env
